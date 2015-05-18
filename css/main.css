@@ -61,24 +61,20 @@ body {
 }
 
 .sflogo {
-	padding-top: 3em;
-	padding-left: 10em;
+	background-image: url('../images/sflogo225px.png');
+	height: 170px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	margin-left: 40em;
+	float: center;
+	padding-bottom: 3em;
 }
 
 h1 {
+	padding-top: 1em;
 	font-size: 1.5em;
 }
 
 /* * {
 	outline: red 1px solid;
 } */
-
-
-
-
-
-
-
-
-
-
